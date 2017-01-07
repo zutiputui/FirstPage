@@ -1,2 +1,21 @@
 
 <link href="https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Cinzel|Cinzel+Decorative|Droid+Sans|Droid+Serif|Gloria+Hallelujah|IM+Fell+English+SC|IM+Fell+Great+Primer+SC|Marcellus+SC|Mirza|Neucha|Permanent+Marker|Raleway|Reenie+Beanie|Sorts+Mill+Goudy|Special+Elite" rel="stylesheet">
+
+
+font-family: 'Droid Serif', serif;
+font-family: 'Droid Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Gloria Hallelujah', cursive;
+font-family: 'IM Fell Great Primer SC', serif;
+font-family: 'IM Fell English SC', serif;
+font-family: 'Mirza', cursive;
+font-family: 'Marcellus SC', serif;
+font-family: 'Annie Use Your Telescope', cursive;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Reenie Beanie', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'Neucha', cursive;
+font-family: 'Sorts Mill Goudy', serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Cinzel', serif;
+
